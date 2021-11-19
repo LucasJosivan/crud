@@ -24,6 +24,11 @@
       "name": "Teste",
       "price": "25.00",
       "id": 5
+    },
+    {
+      "name": "Lápis preto",
+      "price": "0.99",
+      "id": 6
     }
   ]
 }
